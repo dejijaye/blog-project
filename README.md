@@ -1,0 +1,2 @@
+# blog-project
+simple blog
